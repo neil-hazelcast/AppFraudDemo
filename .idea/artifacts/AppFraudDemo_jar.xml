@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AppFraudDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppFraudDemo_jar</output-path>
+    <root id="archive" name="AppFraudDemo.jar">
+      <element id="module-output" name="AppFraudDemo" />
+    </root>
+  </artifact>
+</component>
